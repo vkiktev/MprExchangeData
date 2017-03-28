@@ -49,3 +49,7 @@ Temporary Items
 *.suo
 /Ipk.Custom.MPR.Exchange/obj/Debug
 /Ipk.Custom.MPR.ExchangeExecute/obj/Debug
+/Ipk.Custom.MPR.Exchange/bin/Debug
+/Ipk.Custom.MPR.ExchangeExecute/bin/Debug
+*.vspscc
+/packages
